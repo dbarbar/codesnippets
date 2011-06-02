@@ -1,4 +1,4 @@
-# Git to SVN migration
+# SVN to Git migration
 
 ## Create a local svn repo
 
